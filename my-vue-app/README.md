@@ -1,12 +1,5 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 Questo progetto fornisce un'applicazione React configurata con Vite, che contiene una homepage dove si possono selezione tre visualizzazioni di tabelle del database dell'accademia nel caso il collegamneto non sia disponibile le tabelle verrano caricate da file json.
 Le tabelle consistone in assenze, persone e progetti.
 
